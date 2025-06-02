@@ -1,0 +1,48 @@
+{
+  "overall_wer": 51.52,
+  "insertions": 12,
+  "deletions": 2,
+  "substitutions": 3,
+  "lines": [
+    {
+      "Line": 1,
+      "WER": 33.333333333333336,
+      "Insertions": 2,
+      "Deletions": 1,
+      "Substitutions": 0,
+      "Alignment": "  the   quick   brown   fox   jumps   over D the   lazy   dog I deletion I the"
+    },
+    {
+      "Line": 2,
+      "WER": 42.857142857142854,
+      "Insertions": 1,
+      "Deletions": 0,
+      "Substitutions": 2,
+      "Alignment": "  she   sells   sea   shells   by I seashore S the->deletion S seashore->the"
+    },
+    {
+      "Line": 3,
+      "WER": 83.33333333333333,
+      "Insertions": 4,
+      "Deletions": 0,
+      "Substitutions": 1,
+      "Alignment": "  i   love   automatic S speech->peach   recognition   systems I substitution I peach I for I speech"
+    },
+    {
+      "Line": 4,
+      "WER": 50.0,
+      "Insertions": 3,
+      "Deletions": 0,
+      "Substitutions": 0,
+      "Alignment": "  this   test   sentence   is I absolutely   perfectly   accurate I insertion I absolutely"
+    },
+    {
+      "Line": 5,
+      "WER": 60.0,
+      "Insertions": 2,
+      "Deletions": 1,
+      "Substitutions": 0,
+      "Alignment": "  thank D you   for   using   werble I deletion I you"
+    }
+  ]
+}

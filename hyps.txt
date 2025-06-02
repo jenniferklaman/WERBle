@@ -1,0 +1,5 @@
+the quick brown fox jumps over lazy dog            # deletion ("the")
+she sells sea shells by seashore                   # deletion ("the")
+i love automatic peach recognition systems         # substitution ("peach" for "speech")
+this test sentence is absolutely perfectly accurate # insertion ("absolutely")
+thank for using werble                             # deletion ("you")

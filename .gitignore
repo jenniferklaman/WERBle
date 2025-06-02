@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+werble_output.csv
+
+# Python virtual environment
+venv/
+.venv/
